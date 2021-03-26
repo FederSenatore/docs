@@ -165,7 +165,7 @@ tx2.Group = gid
 ```
 
 ``` goal tab="goal"
-$ goal clerk group -i yourwalletcombinedtransactions.tx -o groupedtransactions.tx -d data -w 
+$ goal clerk group -i yourwallet combinedtransactions.tx -o groupedtransactions.tx -d data -w 
 ```
 
 ## Split Transactions
